@@ -3,8 +3,8 @@
 ## Get to Work!
 
 1. Google Login
-   Email: h1n@hangton.me
-   Password: #was provided
+   Email: `<name>@hangton.me`
+   Password: `＜was provided＞`
 
 2. Go to https://poe.com/
    Login using Google
